@@ -1,0 +1,3 @@
+﻿  ChattingServer.cpp
+C:\GitHub\Remote\CPlusplusBasic\ExampleOfIOCP\ChattingServer\ChattingServer.cpp(121,19): warning C4101: 'flag' :참조되지 않은 지역 변수입니다.
+  ChattingServer.vcxproj -> C:\GitHub\Remote\CPlusplusBasic\ExampleOfIOCP\x64\Debug\ChattingServer.exe
